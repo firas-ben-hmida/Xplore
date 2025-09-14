@@ -14,7 +14,7 @@ The platform features a modern, user-friendly interface designed to make trip pl
 # Login and Signup
 <img width="1919" height="866" alt="Capture d'écran 2025-09-14 234601" src="https://github.com/user-attachments/assets/e3bf21f3-870c-4c98-a313-cdcf0c532a9f" />
 <img width="1919" height="850" alt="Capture d'écran 2025-09-14 234628" src="https://github.com/user-attachments/assets/47926bf8-a09d-4885-b2cd-9dc53e4d9214" />
-#           Profile
+#  Profile
 <img width="1918" height="850" alt="image" src="https://github.com/user-attachments/assets/efc37546-fa0b-411b-83ae-6d2aeeca6b3f" />
 #  Activity Booking
 <img width="1906" height="830" alt="Capture d'écran 2025-09-14 234958" src="https://github.com/user-attachments/assets/ba545285-ed4b-43f6-aa43-5db27b2973c1" />
@@ -25,7 +25,7 @@ The platform features a modern, user-friendly interface designed to make trip pl
 #  Activity Rating
 <img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/18db68bc-93d1-42d7-ba11-586476ff238c" />
 <img width="1900" height="867" alt="image" src="https://github.com/user-attachments/assets/e6d72a25-4bd6-4ed2-88ea-b996d083c01c" />
-#Hotel Reservations & Offers
+# Hotel Reservations & Offers
 <img width="1919" height="869" alt="Capture d'écran 2025-09-14 231650" src="https://github.com/user-attachments/assets/764f7fad-2ad7-46b5-bb83-e84b6a7cbd0f" />
 <img width="1888" height="825" alt="image" src="https://github.com/user-attachments/assets/5eadef13-6380-459b-8557-d4c8a4165b32" />
 #  Bus Reservations
