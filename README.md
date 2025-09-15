@@ -58,9 +58,9 @@ The platform features a modern, user-friendly interface designed to make trip pl
 <img width="1891" height="858" alt="image" src="https://github.com/user-attachments/assets/4b2dcea7-7201-4c9f-8e8c-d72e2f55d054" />
 <img width="1877" height="890" alt="image" src="https://github.com/user-attachments/assets/ffcf7ddd-4a0b-4aa7-8b06-c160d8fecdab" />
 <img width="1091" height="425" alt="image" src="https://github.com/user-attachments/assets/71d5d297-c5b3-4a25-a7e1-aec653cc07cf" />
+<img width="1277" height="470" alt="image" src="https://github.com/user-attachments/assets/e5c58888-54bf-4113-9d9a-1edbe0f75d63" />
 <img width="1880" height="992" alt="Capture d'écran 2025-09-15 015318" src="https://github.com/user-attachments/assets/af29215e-5cc2-4dd0-a2c4-cc093da60fe0" />
-
-
+<img width="726" height="697" alt="image" src="https://github.com/user-attachments/assets/1742b033-781a-466e-b620-0e785b4af585" />
 
 # Collaborative Forum
 
