@@ -14,7 +14,16 @@ The platform features a modern, user-friendly interface designed to make trip pl
 # Login and Signup
 
 <img width="1919" height="866" alt="Capture d'écran 2025-09-14 234601" src="https://github.com/user-attachments/assets/e3bf21f3-870c-4c98-a313-cdcf0c532a9f" />
-<img width="1919" height="850" alt="Capture d'écran 2025-09-14 234628" src="https://github.com/user-attachments/assets/47926bf8-a09d-4885-b2cd-9dc53e4d9214" />
+<img width="1840" height="445" alt="Capture d'écran 2025-09-15 005008" src="https://github.com/user-attachments/assets/6269c089-3ca9-46ea-939a-f2e2155d00d4" />
+
+
+# Forgot Password
+
+<img width="1919" height="871" alt="Capture d'écran 2025-09-15 002055" src="https://github.com/user-attachments/assets/95f00c08-37b3-46df-8e2c-9065fe17a76e" />
+<img width="1840" height="445" alt="image" src="https://github.com/user-attachments/assets/af8867a0-b172-43cb-aa37-4ae7c10beaf5" />
+<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/f8baf558-a197-46f9-8d22-fd1eb9b8141f" />
+<img width="1919" height="868" alt="Capture d'écran 2025-09-15 011852" src="https://github.com/user-attachments/assets/32ae6fc3-d135-449f-969e-090a7725b0f7" />
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/c89e8f48-bd55-4d28-bd03-4d79fc98825f" />
 
 #  Profile
 
