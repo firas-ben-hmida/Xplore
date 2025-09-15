@@ -14,7 +14,8 @@ The platform features a modern, user-friendly interface designed to make trip pl
 # Login and Signup
 
 <img width="1919" height="866" alt="Capture d'écran 2025-09-14 234601" src="https://github.com/user-attachments/assets/e3bf21f3-870c-4c98-a313-cdcf0c532a9f" />
-<img width="1840" height="445" alt="Capture d'écran 2025-09-15 005008" src="https://github.com/user-attachments/assets/6269c089-3ca9-46ea-939a-f2e2155d00d4" />
+<img width="1918" height="831" alt="image" src="https://github.com/user-attachments/assets/bae615f6-dba9-4585-b7f4-7c6dad79d10f" />
+
 
 
 # Forgot Password
