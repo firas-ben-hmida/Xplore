@@ -48,7 +48,7 @@ The platform features a modern, user-friendly interface designed to make trip pl
 <img width="1919" height="869" alt="Capture d'écran 2025-09-14 231650" src="https://github.com/user-attachments/assets/764f7fad-2ad7-46b5-bb83-e84b6a7cbd0f" />
 <img width="1888" height="825" alt="image" src="https://github.com/user-attachments/assets/5eadef13-6380-459b-8557-d4c8a4165b32" />
 
-#  Bus Reservations
+#  Car Reservations
 
 <img width="1815" height="722" alt="image" src="https://github.com/user-attachments/assets/e119127c-43a7-4325-a3b9-04e20c1392c4" />
 <img width="1866" height="631" alt="image" src="https://github.com/user-attachments/assets/f2cdbbad-c684-4148-a303-eb1e63448303" />
